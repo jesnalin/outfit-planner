@@ -1,0 +1,6 @@
+{
+  "name": "Daily Outfit Planner & Wardrobe Stylist",
+  "description": "Personal AI digital wardrobe manager and outfit planner that creates curated daily outfits, rotation tracking, and styling advice from your real clothing items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
